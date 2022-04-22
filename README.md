@@ -13,7 +13,7 @@
 * 자신이 한 것 리뷰
 * 오늘 기술적으로 어려웠던 점
 * 월 - 목 회고시간 : 5 : 30 ~
-* 금 회고시간 : 5 : 00 ~ : 다음주 할일 목록, 피드백을 깃헙 칸단보드에 업데이트
+* 금 회고시간 : 5 : 00 ~ : 다음주 할일 목록, 피드백을 깃헙 칸보드에 업데이트
 
 ## 규율
 * 맡은 파트를 못 할 것 같으면 미리 팀에 말하기
@@ -62,4 +62,70 @@
 
 
 ##백로그
+* https://docs.google.com/spreadsheets/d/1dyxzR9sf1DLQt7YwmyywFFr-AN6VCsFfpu50yRHVUy0/edit#gid=0
+
+---
+
+# OSGD Ground Rule
+Team communication channel - Slack osgd Channel
+
+## Our communication
+* The topic must selected a day before.
+* Morning meeting(9AM, 20min)
+* Afternoon meeting(3PM-4PM) *with a topic selected before noon. If there's no special one, we skip the meeting.
+* The script can be found on Slack OSGD channel.
+
+## Daily Review
+* Review today's task.
+* Share technically challenged part.
+* Mon - Thu, Review starts at 5:30.
+* Fri, Review starts at 5 : 00. *list up for next week and update feedbacks for each other on Kanban board in Github.
+
+## Rules
+* If the work is overwhelming, it must be shared with the team.
+* Have a great 6hrs of sleep.
+* If a teammate feels exhausted, make she/he take some rest.
+* If there is problem, it should be fixed in 35hrs.
+
+## Planning for a week
+* Plan for a week established on Mon 1:00 ~ 1:20
+* Leader : 박진수 -> 김수완 -> 황예린 -> 서동욱 by one week.
+
+## Leader's Responsibility
+* Do what feels harsh.
+* Presenting the demo.
+* Care for teammates' health.
+* The final decision.
+* Let teammates go home early.
+* Be positive and enjoyable.
+
+## Setting the To do list
+* We use the Kanban board on Git hub.
+* Also use the post-it.
+
+## Conflicts on making decision
+* The leader should wrap-up the opinions to make right decision.
+
+## Code Style for Our Team
+### Web Part
+* mark up : lezhin style.
+* https://github.com/lezhin/markup-guide
+* javascript : Air bnb style.
+* https://github.com/airbnb/javascript
+
+### IOS Part
+* Swift : LinkedIn style, Rather than making a new object, we aggressively use existing extensions.
+* No forced type conversion.
+* Object must be distinct by it's function.
+* Use TDD(Test Driven Development) way.
+* https://github.com/linkedin/swift-style-guide
+
+
+## Git hub branch Strategy
+### Repository
+
+## Service Proposal
+
+
+##Backlog
 * https://docs.google.com/spreadsheets/d/1dyxzR9sf1DLQt7YwmyywFFr-AN6VCsFfpu50yRHVUy0/edit#gid=0
